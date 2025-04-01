@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Hari kc! I'm passionate about technology, learning, and building cool projects. I'm always eager to explore new things, whether it's coding, ethical hacking, or AI.
 
-<!--
+
 📌 A Little About Me
 
     💻 Beginner in ethical hacking, web development, and cybersecurity
@@ -41,4 +41,3 @@
     🎯 To get better at software engineering methodologies and teamwork
 
 
--->
